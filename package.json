@@ -1,0 +1,17 @@
+{
+  "name": "AutolistLite",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.4",
+    "babel-preset-react": "^6.24.1",
+    "jquery-ujs": "^1.2.2",
+    "prop-types": "^15.6.1",
+    "rc-slider": "^8.6.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-rails-ujs": "^1.1.0"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
